@@ -7,4 +7,4 @@ dashboard 2 public link - https://public.tableau.com/app/profile/siva.priya.a.b/
 
 story 1 public link - https://public.tableau.com/app/profile/siva.priya.a.b/viz/3-NoofScenesofStory/Story1?publish=yes
 
-Vidoe demonstration link : https://drive.google.com/file/d/1ueEaxP0Usd_LIl5JmGdhz3x_xWXSWFV8/view?usp=drivesdk
+Vidoe demonstration link : https://drive.google.com/file/d/16b-b2Nucyp-AsS7BHwAFu0jjtt73110n/view?usp=drivesdk
